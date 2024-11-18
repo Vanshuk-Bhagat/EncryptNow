@@ -1,4 +1,4 @@
-Encrypt Now 🔒
+Encrypt 🔒
 A Simple and Effective Data Encryption and Decryption Tool
 
 Project Overview
@@ -10,7 +10,7 @@ Password Validation: Ensures decryption security with a retry mechanism allowing
 User-Friendly Notifications: Displays success messages for encryption and intuitive error prompts for invalid passwords.
 Cross-Platform Accessibility: Includes a pre-compiled .exe for ease of use on Windows systems.
 Included Files
-EncryptNow.exe
+Encrypt.exe
 A ready-to-run executable for encrypting and decrypting data on Windows.
 EncryptNow.py
 The Python source code for the application, ideal for developers or anyone looking to understand the implementation.
